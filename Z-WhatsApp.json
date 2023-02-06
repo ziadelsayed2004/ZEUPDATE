@@ -1,0 +1,11 @@
+{
+	"version": "7.0",
+	"download": "https://ziadelsayed.odoo.com/z-whatsapp",
+	"update": [
+		{
+			"languaje": "en",
+			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-en.html"
+		}
+		
+	]
+}
