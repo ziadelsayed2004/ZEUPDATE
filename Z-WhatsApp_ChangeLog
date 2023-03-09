@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<head> 
+<style>html, body{background-color: #ffffff; color: #777777;}body{padding-top: %; padding-left: 2%; padding-right: 2%; font-size: 14px; font-family: 'Roboto', 'Helvetica Neue', sans-serif;}.title{display: block; width: 100%; text-align: center; font-size: 16px;}p{margin-bottomline-height: 2; display: block;}b{font-size: large;}point, enable, baseup, fixed{padding: .2rem .4rem; border-radius: .25rem;}point{color: #4f6e33; background-color: #e9f3e5;font-weight: bold}baseup{margin-bottom:10px; background-color: #d5dee2; color: #506874; font-weight: bold} enable{color: #31A1FF; background-color: #e9f3ef; font-weight: bold} fixed{color: #c7254e; background-color: #f9f2f4; font-weight: bold}date{font-family: monospace;}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
+</style>
+</head>
+
+<body>
+
+<center>
+<h2>Z-WHATSAPP - OFFICIAL</h2>
+<date>10/03/2023</date>
+</hr>
+</center>
+
+<center>
+<h1>VERSION 7.5.1</h1>
+</center>
+
+<hr/>
+
+<p style="text-align: center;">
+<center>
+
+<baseup>• BASE UPDATE •</baseup></br></br> On ZE Mod Lab's Base - 2.23.1.76
+</br></br></br>
+
+
+<point>• CHANGE LOG •</point></br></br>
+Anti Ban Version - Safety Modified</br>
+More stability base and full stable features</br>
+Other features check it and enjoy
+</br></br></br>
+
+
+<enable>- ADDED -</enable>
+</br></br>
+Option to edit message from long press options<br>
+New "Msg a number" UI design </br>
+List view effect animation for all scroll lists<br>
+3D Effects transformation for home </br>
+Wave animation for home </br>
+Load custom font style</br>
+Options to hide Save and Seen buttons for status </br>
+Option to Hide Status Cutter FAB ✂️</br>
+Proxy Settings (Settings > Storage and data ) </br>
+Message yourself (save notes) </br>
+ZE Backup updated automatically daily</br></br></br>
+
+
+<fixed>- FIXED -</fixed>
+</br></br>
+Voice note playing crash on some phones</br>
+Auto reply / Forward crash </br>
+Some entries shape issues</br>
+Other fixes and improvements</br>
+</center>
+</p>
+
+<hr/>
+
+</body>
+</html>
